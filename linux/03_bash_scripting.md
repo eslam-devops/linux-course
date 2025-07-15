@@ -1,0 +1,3 @@
+# 🧰 Bash Scripting Basics
+
+محتوى الدرس...
